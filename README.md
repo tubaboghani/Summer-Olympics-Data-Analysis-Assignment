@@ -2,7 +2,7 @@
 This repositry is having all the codes used in AI/ML Skill India Scholarship Assignment on Summer Olympics Data Analysis
 
 -----------------------------------------------------------------------------------------------------------------------------------
-### About the repositry?
+### About the repository?
 you'll learn data analysis and numpy,pandas as well as matplotlib.pyplot libararies.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
