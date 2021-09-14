@@ -8,7 +8,9 @@ you'll learn data analysis and numpy,pandas as well as matplotlib.pyplot libarar
 ----------------------------------------------------------------------------------------------------------------------------------------
 ### Features
 1.easy to fetch data from dataset.
+
 2.can update dataset by deleting null values.
+
 3.able to analyze data by ploting graph.
 
 ------------------------------------------------------------------------------------------------------------------------------
